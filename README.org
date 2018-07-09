@@ -22,7 +22,7 @@
     + 11:00-11:45 [[https://speakerdeck.com/ellenkoenig/pydata-bln-2018-five-things-i-learned-while-prototyping-ml-papers][Five things I learned from turning research papers into industry prototypes, Ellen König]]
 *** Tools of the Trade
     + 12:30-13:15 [[https://docs.google.com/presentation/d/e/2PACX-1vR0K9gtlPRGRIL6isoVWqa7SOr486yn9p_yCfH-ljtgQa2KpN0J03fOJa_jYgjeVwY3uAJe6GgAxez6/pub?start=false&loop=false&delayms=3000#slide=id.gc6f9e470d_0_0][Launch Jupyter to the Cloud: an example of using Docker and Terraform, Cheuk Ting Ho]]
-
+-----
 *** Algorithms
 *** NLP & RNNs
 *** Python in the Field
@@ -30,7 +30,7 @@
 *** Unsupervised Learning & Visualization
     + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/manifold-learning-and-data-visualization][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
     + 15:45-16:30 [[https://juanitorduz.github.io/documents/orduz_pydata2018.pdf][On Laplacian Eigenmaps for Dimensionality Reductio, Juan Orduz]]
-
+-----
 *** Lightning Talks
 ** Sunday, 07.08.2018
 *** ML in Production
@@ -39,7 +39,7 @@
       + https://github.com/axsauze/crypto-ml
 *** Explainability and Privacy
 *** Computer Vision & CNNs
-
+-----
 *** Best Practices
     + 14:15-15:00 [[https://www.slideshare.net/DmitryPetrov15/pydata-berlin-2018-dvcorg][Data versioning in machine learning projects, Dmitry Petrov]]
 *** Extending Python
@@ -48,6 +48,7 @@
 *** Bayesian Methods
     + 13:30-14:15 [[https://github.com/junpenglao/All-that-likelihood-with-PyMC3/blob/master/All%20that%20likelihood.pdf][All that likelihood with PyMC3, Junpeng Lao]]
       + https://github.com/junpenglao/All-that-likelihood-with-PyMC3
+-----
 *** Performance
     + 16:00-16:45 [[https://github.com/TwentyBN/20bn-video-data-loading-talk/blob/master/20bn-video-data-loading-talk-PyDataBerlin2018.01.pdf][Battle-hardened advice on efficient data loading for deep learning on videos, Valentin Haenel]]
       + https://github.com/TwentyBN/20bn-video-data-loading-talk
@@ -55,6 +56,5 @@
 *** Visualization Tools
     + 15:15-16:00 [[https://janpipek.github.io/pydata2018-berlin/slides/#/][Meaningful histogramming with Physt, Jan Pipek]]
       + https://janpipek.github.io/pydata2018-berlin/
-
-
-
+-----
+*** Lightning Talks
