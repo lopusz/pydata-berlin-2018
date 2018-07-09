@@ -60,3 +60,8 @@
 -----
 *** Lightning Talks
     + Missing talk ;) [[https://github.com/sotte/pydata_eda_lightning_talk/blob/master/demo.ipynb][Some tools to ease EDA, Stefan Otte]]
+** Notes, write-ups
+   + Notes by [[https://twitter.com/liopic][@liopic]]
+     + https://gist.github.com/liopic/6f1a6d50d41bd07efc18c876329ab254
+   + Notes by jznf
+     + https://gitlab.com/jznf/pydata-berlin-2018
