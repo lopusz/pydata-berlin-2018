@@ -1,34 +1,34 @@
 * Links to slides & materials from PyData Berlin 2018
 ** Friday, 05.07.2018
 *** Track 1
-    +  09:00-10:30 Using GANs to improve generalization in a semi-supervised setting - trying it in open datasets Andreas Merentitis, Carmine Paolino, Vaibhav Singh 
-       + 
-    + 10:45-12:15 Deep Neural Networks with PyTorch, Stefan Otte 
+    + 10:45-12:15 Deep Neural Networks with PyTorch, Stefan Otte
       + https://github.com/sotte/pytorch_tutorial
-    + 15:00-16:30 Production ready Data-Science with Python and Luigi, Mark Keinhörster 
+    + 15:00-16:30 Production ready Data-Science with Python and Luigi, Mark Keinhörster
       + https://github.com/crazzle/pydata_berlin_2018
 *** Track 2
-    + 09:00-10:30 Tricks, tips and topics in Text, Analysis Bhargav Srinivasa Desikan  
+    + 09:00-10:30 Tricks, tips and topics in Text, Analysis Bhargav Srinivasa Desikan
       + https://github.com/bhargavvader/personal/tree/master/notebooks
-    + 10:45-12:15 Leveling up your storytelling and visualization skills, Gerrit Gruben  
+    + 10:45-12:15 Leveling up your storytelling and visualization skills, Gerrit Gruben
       + https://github.com/uberwach/leveling-up-viz-story
     + 15:00-16:30 Search Relevance: A/B testing to Reinforcement Learning, Arnab Dutta
-      + https://github.com/kraktos/MAB 
+      + https://github.com/kraktos/MAB
 ** Saturday, 06.07.2018
 *** Neural Networks
   + 11:45-12:30 [[https://www.dropbox.com/s/a7xako61ihuh82k/20180607_network_viz_pydata_berlin.pdf?dl=0][Simple diagrams of convoluted neural networks]]
 *** NLP & Text Analysis
+    + 14:15-15:00 [[https://speakerdeck.com/honnibal/building-new-nlp-solutions-with-spacy-and-prodigy][Building new NLP solutions with spaCy and Prodigy, Matthew Honnibal]]
 *** Python Applications
     + 11:00-11:45 [[https://speakerdeck.com/ellenkoenig/pydata-bln-2018-five-things-i-learned-while-prototyping-ml-papers][Five things I learned from turning research papers into industry prototypes, Ellen König]]
 *** Tools of the Trade
-    + 12:30-13:15 [[https://docs.google.com/presentation/d/e/2PACX-1vR0K9gtlPRGRIL6isoVWqa7SOr486yn9p_yCfH-ljtgQa2KpN0J03fOJa_jYgjeVwY3uAJe6GgAxez6/pub?start=false&loop=false&delayms=3000#slide=id.gc6f9e470d_0_0][Launch Jupyter to the Cloud: an example of using Docker and Terraform, Cheuk Ting Ho]] 
+    + 12:30-13:15 [[https://docs.google.com/presentation/d/e/2PACX-1vR0K9gtlPRGRIL6isoVWqa7SOr486yn9p_yCfH-ljtgQa2KpN0J03fOJa_jYgjeVwY3uAJe6GgAxez6/pub?start=false&loop=false&delayms=3000#slide=id.gc6f9e470d_0_0][Launch Jupyter to the Cloud: an example of using Docker and Terraform, Cheuk Ting Ho]]
 
 *** Algorithms
 *** NLP & RNNs
 *** Python in the Field
 *** Unsupervised Learning & Visualization
-    + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/manifold-learning-and-data-visualization][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]  
+    + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/manifold-learning-and-data-visualization][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
     + 15:45-16:30 [[https://juanitorduz.github.io/documents/orduz_pydata2018.pdf][On Laplacian Eigenmaps for Dimensionality Reductio, Juan Orduz]]
+
 *** Lightning Talks
 ** Friday, 07.08.2018
 *** ML in Production
@@ -39,11 +39,20 @@
 *** Computer Vision & CNNs
 
 *** Best Practices
+    + 14:15-15:00 [[https://www.slideshare.net/DmitryPetrov15/pydata-berlin-2018-dvcorg][Data versioning in machine learning projects, Dmitry Petrov]]
 *** Extending Python
+    + 13:30-14:15 [[https://datawookie.github.io/talk-mixed-python-r/][Interfacing R and Python, Andrew Collier]]
+    + 14:15-15:00 [[https://www.slideshare.net/xhochy/extending-pandas-using-apache-arrow-and-numba][Extending Pandas using Apache Arrow and Numba, Uwe L. Korn]]
 *** Bayesian Methods
-
+    + 13:30-14:15 [[https://github.com/junpenglao/All-that-likelihood-with-PyMC3/blob/master/All%20that%20likelihood.pdf][All that likelihood with PyMC3, Junpeng Lao]]
+      + https://github.com/junpenglao/All-that-likelihood-with-PyMC3
 *** Performance
-    + 16:00-16:45 [[https://github.com/TwentyBN/20bn-video-data-loading-talk/blob/master/20bn-video-data-loading-talk-PyDataBerlin2018.01.pdf][Battle-hardened advice on efficient data loading for deep learning on videos, Valentin Haenel]] 
+    + 16:00-16:45 [[https://github.com/TwentyBN/20bn-video-data-loading-talk/blob/master/20bn-video-data-loading-talk-PyDataBerlin2018.01.pdf][Battle-hardened advice on efficient data loading for deep learning on videos, Valentin Haenel]]
       + https://github.com/TwentyBN/20bn-video-data-loading-talk
 *** New Libraries
 *** Visualization Tools
+    + 15:15-16:00 [[https://janpipek.github.io/pydata2018-berlin/slides/#/][Meaningful histogramming with Physt, Jan Pipek]]
+      + https://janpipek.github.io/pydata2018-berlin/
+
+
+
