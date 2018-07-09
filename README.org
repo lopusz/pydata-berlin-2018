@@ -25,6 +25,7 @@
 *** NLP & RNNs
     + 14:15-15:00 [[https://speakerdeck.com/honnibal/building-new-nlp-solutions-with-spacy-and-prodigy][Building new NLP solutions with spaCy and Prodigy, Matthew Honnibal]]
     + 15:00-15:45 [[https://drive.google.com/file/d/1NkcdGRiTMXeNhqzOFRz6mjNEjnDN_F73/view][How I Made My Computer Write it's First Short Story, Alexander Hendorf]]
+    + 15:45-16:30 [[https://www.dropbox.com/s/hri8veio4rep5g4/Self-Attention_for_NLP_by_Ivan_Bilan.pptx][Understanding and Applying Self-Attention for NLP, Ivan Bilan]]
 *** Python in the Field
     + 15:00-15:45 [[https://github.com/awakenting/master-thesis/blob/master/pydata_2018_presentation_slides.pdf][How to scare a fish (school), Andrej Warkentin]]
 *** Unsupervised Learning & Visualization
