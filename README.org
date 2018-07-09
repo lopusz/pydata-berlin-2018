@@ -32,6 +32,7 @@
     + 15:45-16:30 [[https://juanitorduz.github.io/documents/orduz_pydata2018.pdf][On Laplacian Eigenmaps for Dimensionality Reductio, Juan Orduz]]
 -----
 *** Lightning Talks
+    + [[https://www.slideshare.net/lopusz/the-five-tribes-of-machine-learning-explainers][The Five Tribes of Machine Learning Explainers, Michał Łopuszyński]]
 ** Sunday, 07.08.2018
 *** ML in Production
     + 10.15-11:00 [[https://axsauze.github.io/industrial-machine-learning/#/][Industrial ML - Overview of the technologies available to build scalable machine learning, Alejandro Saucedo]]
@@ -58,3 +59,4 @@
       + https://janpipek.github.io/pydata2018-berlin/
 -----
 *** Lightning Talks
+    + Missing talk ;) [[https://github.com/sotte/pydata_eda_lightning_talk/blob/master/demo.ipynb][Some tools to ease EDA, Stefan Otte]]
