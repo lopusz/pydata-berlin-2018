@@ -14,7 +14,7 @@
       + https://github.com/kraktos/MAB
 ** Saturday, 06.07.2018
 *** Neural Networks
-  + 11:45-12:30 [[https://www.dropbox.com/s/a7xako61ihuh82k/20180607_network_viz_pydata_berlin.pdf?dl=0][Simple diagrams of convoluted neural networks]]
+  + 11:45-12:30 [[https://www.dropbox.com/s/a7xako61ihuh82k/20180607_network_viz_pydata_berlin.pdf?dl=0][Simple diagrams of convoluted neural networks, Piotr Migdał ]]
 *** NLP & Text Analysis
     + 14:15-15:00 [[https://speakerdeck.com/honnibal/building-new-nlp-solutions-with-spacy-and-prodigy][Building new NLP solutions with spaCy and Prodigy, Matthew Honnibal]]
 *** Python Applications
@@ -25,6 +25,7 @@
 *** Algorithms
 *** NLP & RNNs
 *** Python in the Field
+    + 15:00-15:45 [[https://github.com/awakenting/master-thesis/blob/master/pydata_2018_presentation_slides.pdf][How to scare a fish (school), Andrej Warkentin]]
 *** Unsupervised Learning & Visualization
     + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/manifold-learning-and-data-visualization][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
     + 15:45-16:30 [[https://juanitorduz.github.io/documents/orduz_pydata2018.pdf][On Laplacian Eigenmaps for Dimensionality Reductio, Juan Orduz]]
