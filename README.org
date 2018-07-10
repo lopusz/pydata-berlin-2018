@@ -14,6 +14,7 @@
       + https://github.com/kraktos/MAB
 ** Saturday, 06.07.2018
 *** Neural Networks
+  + 11:00-11:45 [[https://www.slideshare.net/VaibhavSingh2/visual-concept-learning][Visual concept learning from few images, Vaibhav Singh]]
   + 11:45-12:30 [[https://www.dropbox.com/s/a7xako61ihuh82k/20180607_network_viz_pydata_berlin.pdf?dl=0][Simple diagrams of convoluted neural networks, Piotr Migdał ]]
 *** NLP & Text Analysis
 *** Python Applications
@@ -30,6 +31,8 @@
     + 15:00-15:45 [[https://github.com/awakenting/master-thesis/blob/master/pydata_2018_presentation_slides.pdf][How to scare a fish (school), Andrej Warkentin]]
 *** Unsupervised Learning & Visualization
     + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/manifold-learning-and-data-visualization][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
+    + 15:00-15:45 [[https://github.com/metterlein/spectral_clustering/blob/master/slides/SpectralClustering.pdf][Extracting relevant Metrics with Spectral Clustering, Evelyn Trautmann]]
+      + https://github.com/metterlein/spectral_clustering/
     + 15:45-16:30 [[https://juanitorduz.github.io/documents/orduz_pydata2018.pdf][On Laplacian Eigenmaps for Dimensionality Reductio, Juan Orduz]]
 -----
 *** Lightning Talks
