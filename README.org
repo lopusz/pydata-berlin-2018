@@ -40,6 +40,7 @@
       + https://github.com/axsauze/industrial-machine-learning
       + https://github.com/axsauze/crypto-ml
 *** Explainability and Privacy
+    + 11:45-12:30 [[https://github.com/dswah/PyData-Berlin-2018-pyGAM/blob/master/PyData_pyGAM_slides.pdf][pyGAM: balancing interpretability and predictive power using Generalized Additive Models in Python Dani Servén Marín]]
 *** Computer Vision & CNNs
 -----
 *** Best Practices
