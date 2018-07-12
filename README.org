@@ -20,6 +20,7 @@
 *** Python Applications
     + 11:00-11:45 [[https://speakerdeck.com/ellenkoenig/pydata-bln-2018-five-things-i-learned-while-prototyping-ml-papers][Five things I learned from turning research papers into industry prototypes, Ellen König]]
 *** Tools of the Trade
+    + 11:45-12:30 [[https://github.com/ThorbenJensen/pydata2018berlin-hyperparameter-optimization/blob/master/pydata_hyperparameter.pdf][Towards automating machine learning: benchmarking tools for hyperparameter tuning, Thorben Jensen]]
     + 12:30-13:15 [[https://docs.google.com/presentation/d/e/2PACX-1vR0K9gtlPRGRIL6isoVWqa7SOr486yn9p_yCfH-ljtgQa2KpN0J03fOJa_jYgjeVwY3uAJe6GgAxez6/pub?start=false&loop=false&delayms=3000#slide=id.gc6f9e470d_0_0][Launch Jupyter to the Cloud: an example of using Docker and Terraform, Cheuk Ting Ho]]
 -----
 *** Algorithms
@@ -62,7 +63,7 @@
 *** Visualization Tools
     + 15:15-16:00 [[https://janpipek.github.io/pydata2018-berlin/slides/#/][Meaningful histogramming with Physt, Jan Pipek]]
       + https://janpipek.github.io/pydata2018-berlin/
-    + 16:00-16:45 [[https://github.com/jtpio/pixijs-jupyter/blob/master/examples/presentation.ipynb][Practical examples of interactive visualizations in JupyterLab with Pixi.js and Jupyter Widgets, Jeremy Tuloup]
+    + 16:00-16:45 [[https://github.com/jtpio/pixijs-jupyter/blob/master/examples/presentation.ipynb][Practical examples of interactive visualizations in JupyterLab with Pixi.js and Jupyter Widgets, Jeremy Tuloup]]
       + https://github.com/jtpio/pixijs-jupyter
       + Binder version: https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/pydata-berlin?urlpath=lab/tree/examples/presentation.ipynb
 
