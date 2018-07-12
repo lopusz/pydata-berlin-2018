@@ -62,6 +62,10 @@
 *** Visualization Tools
     + 15:15-16:00 [[https://janpipek.github.io/pydata2018-berlin/slides/#/][Meaningful histogramming with Physt, Jan Pipek]]
       + https://janpipek.github.io/pydata2018-berlin/
+    + 16:00-16:45 [[https://github.com/jtpio/pixijs-jupyter/blob/master/examples/presentation.ipynb][Practical examples of interactive visualizations in JupyterLab with Pixi.js and Jupyter Widgets, Jeremy Tuloup]
+      + https://github.com/jtpio/pixijs-jupyter
+      + Binder version: https://mybinder.org/v2/gh/jtpio/pixijs-jupyter/pydata-berlin?urlpath=lab/tree/examples/presentation.ipynb
+
 -----
 *** Lightning Talks
     + Missing talk ;) [[https://github.com/sotte/pydata_eda_lightning_talk/blob/master/demo.ipynb][Some tools to ease EDA, Stefan Otte]]
