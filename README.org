@@ -31,7 +31,8 @@
 *** Python in the Field
     + 15:00-15:45 [[https://github.com/awakenting/master-thesis/blob/master/pydata_2018_presentation_slides.pdf][How to scare a fish (school), Andrej Warkentin]]
 *** Unsupervised Learning & Visualization
-    + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/manifold-learning-and-data-visualization][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
+    + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/talk-at-pydata-berlin-about-manifold-learning-and-applications][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
+      + https://github.com/cc-skuehn/Manifold_Learning
     + 15:00-15:45 [[https://github.com/metterlein/spectral_clustering/blob/master/slides/SpectralClustering.pdf][Extracting relevant Metrics with Spectral Clustering, Evelyn Trautmann]]
       + https://github.com/metterlein/spectral_clustering/
     + 15:45-16:30 [[https://juanitorduz.github.io/documents/orduz_pydata2018.pdf][On Laplacian Eigenmaps for Dimensionality Reductio, Juan Orduz]]
