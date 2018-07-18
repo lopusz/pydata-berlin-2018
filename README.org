@@ -46,6 +46,8 @@
       + https://github.com/axsauze/crypto-ml
 *** Explainability and Privacy
     + 11:45-12:30 [[https://github.com/dswah/PyData-Berlin-2018-pyGAM/blob/master/PyData_pyGAM_slides.pdf][pyGAM: balancing interpretability and predictive power using Generalized Additive Models in Python Dani Servén Marín]]
+*** ML in Production
+    + 11:00-11:45 [[https://de.slideshare.net/FlorianWilhelm2/how-mobilede-brings-data-science-to-production-for-a-personalized-web-experience][How mobile.de brings Data Science to Production for a Personalized Web Experience, Florian Wilhelm and Markus Schüler]] 
 *** Computer Vision & CNNs
 -----
 *** Best Practices
