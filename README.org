@@ -1,21 +1,27 @@
 * Links to slides & materials from PyData Berlin 2018
 ** Friday, 05.07.2018
 *** Track 1
+    + 09:00-09:30 [[https://www.slideshare.net/PyData/using-gans-to-improve-generalization-in-a-semisupervised-setting-trying-it-in-open-datasets-andreas-merentitis-carmine-paolino-vaibhav-singh][Using GANs to improve generalization in a semi-supervised setting - trying it in open datasets, Andreas Merentitis, Carmine Paolino, Vaibhav Singh]]
     + 10:45-12:15 Deep Neural Networks with PyTorch, Stefan Otte
       + https://github.com/sotte/pytorch_tutorial
-    + 15:00-16:30 Production ready Data-Science with Python and Luigi, Mark Keinhörster
+    + 13:15-14:45 [[https://speakerdeck.com/mouradmourafiq/reproducing-and-scaling-machine-learning-experiments-with-polyaxon][Scaling and reproducing deep learning on Kubernetes with Polyaxon, Mourad Mourafiq]]
+    + 15:00-16:30 [[http://plainpixels.work/resources/production-ready-datascience.slides#/][Production ready Data-Science with Python and Luigi, Mark Keinhörster]]
       + https://github.com/crazzle/pydata_berlin_2018
+    + 16:45-18:15 [[https://bweigel.github.io/pydata_bln_2018/#/][Deploying a machine learning model to the cloud using AWS Lambda, Benjamin Weigel]]
 *** Track 2
     + 09:00-10:30 Tricks, tips and topics in Text, Analysis Bhargav Srinivasa Desikan
       + https://github.com/bhargavvader/personal/tree/master/notebooks
     + 10:45-12:15 Leveling up your storytelling and visualization skills, Gerrit Gruben
       + https://github.com/uberwach/leveling-up-viz-story
+    + 13:15-14:45  A Hands-On Introduction to Your First Data Science Project Em Grasmeder, Jin Yang
+      + https://github.com/ThoughtWorksInc/twde-datalab
     + 15:00-16:30 Search Relevance: A/B testing to Reinforcement Learning, Arnab Dutta
       + https://github.com/kraktos/MAB
+    + 16:45-18:15 [[https://www.slideshare.net/PyData/deprecating-the-state-machine-building-conversational-ai-with-the-rasa-stack-justina-petraityt][Deprecating the state machine: building conversational AI with the Rasa stack Justina Petraitytė]]
 ** Saturday, 06.07.2018
 *** Neural Networks
-  + 11:00-11:45 [[https://www.slideshare.net/VaibhavSingh2/visual-concept-learning][Visual concept learning from few images, Vaibhav Singh]]
-  + 11:45-12:30 [[https://www.dropbox.com/s/a7xako61ihuh82k/20180607_network_viz_pydata_berlin.pdf?dl=0][Simple diagrams of convoluted neural networks, Piotr Migdał ]]
+    + 11:00-11:45 [[https://www.slideshare.net/VaibhavSingh2/visual-concept-learning][Visual concept learning from few images, Vaibhav Singh]]
+    + 11:45-12:30 [[https://www.dropbox.com/s/a7xako61ihuh82k/20180607_network_viz_pydata_berlin.pdf?dl=0][Simple diagrams of convoluted neural networks, Piotr Migdał ]]
 *** NLP & Text Analysis
 *** Python Applications
     + 11:00-11:45 [[https://speakerdeck.com/ellenkoenig/pydata-bln-2018-five-things-i-learned-while-prototyping-ml-papers][Five things I learned from turning research papers into industry prototypes, Ellen König]]
@@ -47,7 +53,7 @@
 *** Explainability and Privacy
     + 11:45-12:30 [[https://github.com/dswah/PyData-Berlin-2018-pyGAM/blob/master/PyData_pyGAM_slides.pdf][pyGAM: balancing interpretability and predictive power using Generalized Additive Models in Python Dani Servén Marín]]
 *** ML in Production
-    + 11:00-11:45 [[https://de.slideshare.net/FlorianWilhelm2/how-mobilede-brings-data-science-to-production-for-a-personalized-web-experience][How mobile.de brings Data Science to Production for a Personalized Web Experience, Florian Wilhelm and Markus Schüler]] 
+    + 11:00-11:45 [[https://de.slideshare.net/FlorianWilhelm2/how-mobilede-brings-data-science-to-production-for-a-personalized-web-experience][How mobile.de brings Data Science to Production for a Personalized Web Experience, Florian Wilhelm and Markus Schüler]]
 *** Computer Vision & CNNs
 -----
 *** Best Practices
