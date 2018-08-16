@@ -25,16 +25,22 @@
 *** NLP & Text Analysis
 *** Python Applications
     + 11:00-11:45 [[https://speakerdeck.com/ellenkoenig/pydata-bln-2018-five-things-i-learned-while-prototyping-ml-papers][Five things I learned from turning research papers into industry prototypes, Ellen König]]
+    + 11:45-12:30 [[https://github.com/dillongardner/PyDataSpatialAnalysis/raw/master/GeospatialAnalysis.pdf][Spatial Data Analysis With Python, Dillon R. Gardner]]
+      + https://github.com/dillongardner/PyDataSpatialAnalysis
+    + 12:30-13:15 [[https://github.com/SmokinCaterpillar/Snowballs/raw/master/pydata_berlin_2018_slides.pdf][Python Unittesting for Ethereum Smart Contracts or how not to create your own Cryptocurrency, Robert Meyer]]
+      + https://github.com/SmokinCaterpillar/Snowballs
 *** Tools of the Trade
     + 11:45-12:30 [[https://github.com/ThorbenJensen/pydata2018berlin-hyperparameter-optimization/blob/master/pydata_hyperparameter.pdf][Towards automating machine learning: benchmarking tools for hyperparameter tuning, Thorben Jensen]]
     + 12:30-13:15 [[https://docs.google.com/presentation/d/e/2PACX-1vR0K9gtlPRGRIL6isoVWqa7SOr486yn9p_yCfH-ljtgQa2KpN0J03fOJa_jYgjeVwY3uAJe6GgAxez6/pub?start=false&loop=false&delayms=3000#slide=id.gc6f9e470d_0_0][Launch Jupyter to the Cloud: an example of using Docker and Terraform, Cheuk Ting Ho]]
 -----
 *** Algorithms
+    + 15:45-16:30 [[https://www.slideshare.net/PyData/solving-very-simple-substitution-ciphers-algorithmically-stephen-enrightward][Solving very simple substitution ciphers algorithmically, Stephen Enright-Ward]]
 *** NLP & RNNs
     + 14:15-15:00 [[https://speakerdeck.com/honnibal/building-new-nlp-solutions-with-spacy-and-prodigy][Building new NLP solutions with spaCy and Prodigy, Matthew Honnibal]]
     + 15:00-15:45 [[https://drive.google.com/file/d/1NkcdGRiTMXeNhqzOFRz6mjNEjnDN_F73/view][How I Made My Computer Write it's First Short Story, Alexander Hendorf]]
     + 15:45-16:30 [[https://www.dropbox.com/s/hri8veio4rep5g4/Self-Attention_for_NLP_by_Ivan_Bilan.pptx][Understanding and Applying Self-Attention for NLP, Ivan Bilan]]
 *** Python in the Field
+    + 14:15-15:00 [[https://www.dropbox.com/s/wwfkbfd28rm8hoi/Pydata_Berlin_2018.pptx?dl=0][Python in Medicine: analysing data from mechanical ventilators and patient monitors Gusztav Belteki]]
     + 15:00-15:45 [[https://github.com/awakenting/master-thesis/blob/master/pydata_2018_presentation_slides.pdf][How to scare a fish (school), Andrej Warkentin]]
 *** Unsupervised Learning & Visualization
     + 14:15-15:00 [[https://de.slideshare.net/StefanKhn4/talk-at-pydata-berlin-about-manifold-learning-and-applications][Manifold Learning and Dimensionality Reduction for Data Visualization and Feature Engineering, Stefan Kühn]]
@@ -51,10 +57,14 @@
       + https://github.com/axsauze/industrial-machine-learning
       + https://github.com/axsauze/crypto-ml
 *** Explainability and Privacy
+    + 10:15-11:00 [[https://www.slideshare.net/PyData/gdpr-in-practise-developing-models-with-transparency-and-privacy-in-mind-ukasz-mokrzycki][GDPR in practise - Developing models with transparency and privacy in mind, Łukasz Mokrzycki]] 
+    + 11:00:11:45 [[https://www.slideshare.net/figago/privacypreserving-data-sharing-pydata-berlin-2018][Privacy-preserving Data Sharing, Omar Ali Fdal]]
     + 11:45-12:30 [[https://github.com/dswah/PyData-Berlin-2018-pyGAM/blob/master/PyData_pyGAM_slides.pdf][pyGAM: balancing interpretability and predictive power using Generalized Additive Models in Python Dani Servén Marín]]
 *** ML in Production
     + 11:00-11:45 [[https://de.slideshare.net/FlorianWilhelm2/how-mobilede-brings-data-science-to-production-for-a-personalized-web-experience][How mobile.de brings Data Science to Production for a Personalized Web Experience, Florian Wilhelm and Markus Schüler]]
 *** Computer Vision & CNNs
+    + 10:15-11:00 [[https://drive.google.com/file/d/1SDH8JSK4GW45RdDhUhR2b_mc-AxqeWuL/view][When to go deep in Computer Vision... and how, Irina Vidal Migallón]]
+    + 11:45-12:30 [[https://www.slideshare.net/PyData/the-face-of-nanomaterials-insightful-classification-using-deep-learning-angelo-ziletti][The Face of Nanomaterials: Insightful Classification Using Deep Learning Angelo Ziletti]]
 -----
 *** Best Practices
     + 14:15-15:00 [[https://www.slideshare.net/DmitryPetrov15/pydata-berlin-2018-dvcorg][Data versioning in machine learning projects, Dmitry Petrov]]
@@ -66,9 +76,11 @@
       + https://github.com/junpenglao/All-that-likelihood-with-PyMC3
 -----
 *** Performance
+    + 15:15-16:00 [[https://bigdata.uni-saarland.de/publications/Big%20Data%20Systems%20Performance%20-%20The%20Little%20Shop%20of%20Horrors.pdf][Big Data Systems Performance: The Little Shop of Horrors, Jens Dittrich]]
     + 16:00-16:45 [[https://github.com/TwentyBN/20bn-video-data-loading-talk/blob/master/20bn-video-data-loading-talk-PyDataBerlin2018.01.pdf][Battle-hardened advice on efficient data loading for deep learning on videos, Valentin Haenel]]
       + https://github.com/TwentyBN/20bn-video-data-loading-talk
 *** New Libraries
+    + 16:00-16:45 [[https://www.slideshare.net/PyData/lightfieldsjl-fast-3d-image-reconstruction-for-vr-applications-hector-andrade-loarca][LightFields.jl: Fast 3D image reconstruction for VR applications Hector, Andrade Loarca]] 
 *** Visualization Tools
     + 15:15-16:00 [[https://janpipek.github.io/pydata2018-berlin/slides/#/][Meaningful histogramming with Physt, Jan Pipek]]
       + https://janpipek.github.io/pydata2018-berlin/
